@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51b1a8d2c2361cd4da8496a3ff9dc7ad, type: 3}
+  m_Name: Handgun
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4522329924595591064, guid: 27cf0d2cb4b23a044b9d54567fd2691d, type: 3}
+  damage: 2
+  speed: 3
+  cooldownDuration: 1
+  pierce: 1
